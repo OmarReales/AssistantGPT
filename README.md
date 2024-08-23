@@ -1,6 +1,6 @@
 # AssistantGPT
 
-## Descripcón
+## Descripción
 
 AssistantGPT es un asistente conversacional creado para ayudar a los estudiantes a comprender y aprender diversos temas. Este asistente utiliza el modelo Gemini de Google para generar respuestas claras, concisas y adaptadas al nivel del usuario. El asistente ofrece funcionalidades como explicaciones de temas y resúmenes de textos, diseñadas para facilitar el estudio y la comprensión.
 
